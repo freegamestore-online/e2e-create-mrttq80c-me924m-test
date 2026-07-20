@@ -1,8 +1,8 @@
-# APPNAME
+# Browser Canary e2e-create-mrttq80c-me924m-test
 
 A free game on FreeGameStore.
 
-- Subdomain: `APPNAME.freegamestore.online`
+- Subdomain: `Browser Canary e2e-create-mrttq80c-me924m-test.freegamestore.online`
 - Dev: `pnpm install && pnpm dev`
 - Build: `pnpm build`
 - Deploy: `git push origin main` (auto-deploys to R2 via GitHub Actions)
